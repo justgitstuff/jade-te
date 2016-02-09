@@ -1,0 +1,1 @@
+The aim of this project is to coordinate effectively and efficiently the activities of the policemen, firemen and ambulances in order to cope with the effects of a disaster on a city.
